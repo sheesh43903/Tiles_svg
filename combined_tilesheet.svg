@@ -494,7 +494,7 @@
        y="240.96889" />
   </g>
   <g
-     transform="matrix(1.0000107,0,0,0.99750668,-0.00138226,514.40944)"
+     transform="matrix(1.0000107,0,0,0.99750694,-0.00138225,514.40941)"
      id="g50">
     <sodipodi:namedview
        id="namedview39"
@@ -803,10 +803,10 @@
      x="510.28476"
      y="250.44153" />
   <rect
-     style="fill:#69462e;stroke-width:1.81428;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#69462e;stroke-width:1.65892;stroke-linecap:round;stroke-linejoin:round"
      id="rect59"
      width="30.927931"
-     height="36.992226"
+     height="30.927927"
      x="-7.8835893"
-     y="513.33301" />
+     y="519.39728" />
 </svg>
