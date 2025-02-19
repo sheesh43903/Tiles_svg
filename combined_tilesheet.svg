@@ -25,9 +25,9 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="3.2979902"
-       inkscape:cx="636.90304"
-       inkscape:cy="236.9625"
+       inkscape:zoom="2.3320312"
+       inkscape:cx="630.56616"
+       inkscape:cy="227.48409"
        inkscape:window-width="1280"
        inkscape:window-height="705"
        inkscape:window-x="-8"
@@ -107,7 +107,7 @@
        d="m 73.35149,130.34411 -12.308852,8.05372 -13.129149,-6.63292 -0.820303,-14.68664 12.308853,-8.05372 13.129156,6.63292 z" />
   </g>
   <g
-     transform="translate(512.00045,-0.90027391)"
+     transform="translate(512.00045,-1.5002739)"
      id="g9">
     <defs
        id="defs1" />
@@ -702,4 +702,11 @@
      height="11.577889"
      x="10.291457"
      y="244.4221" />
+  <rect
+     style="fill:#69462e;stroke-width:5.315;stroke-linecap:round;stroke-linejoin:round"
+     id="rect58"
+     width="228.1273"
+     height="4.2881074"
+     x="510.28476"
+     y="252.1407" />
 </svg>
