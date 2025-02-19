@@ -25,9 +25,9 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="0.58300781"
-       inkscape:cx="512"
-       inkscape:cy="851.61809"
+       inkscape:zoom="1.6489951"
+       inkscape:cx="495.75647"
+       inkscape:cy="803.21645"
        inkscape:window-width="1280"
        inkscape:window-height="705"
        inkscape:window-x="-8"
@@ -107,7 +107,7 @@
        d="m 73.35149,130.34411 -12.308852,8.05372 -13.129149,-6.63292 -0.820303,-14.68664 12.308853,-8.05372 13.129156,6.63292 z" />
   </g>
   <g
-     transform="matrix(0.82218787,0,0,0.98714217,512.59483,776.56996)"
+     transform="matrix(0.82218787,0,0,1.0133058,512.59483,771.77885)"
      id="g2-8">
     <sodipodi:namedview
        id="namedview2"
@@ -200,7 +200,7 @@
        d="m 73.35149,130.34411 -12.308852,8.05372 -13.129149,-6.63292 -0.820303,-14.68664 12.308853,-8.05372 13.129156,6.63292 z" />
   </g>
   <g
-     transform="matrix(1.0422536,0,0,0.99981342,501.73355,-2.0760631)"
+     transform="matrix(1.0422536,0,0,0.99981342,501.73355,-1.1760631)"
      id="g9">
     <defs
        id="defs1" />
@@ -801,5 +801,5 @@
      width="228.1273"
      height="4.2881074"
      x="510.28476"
-     y="249.54147" />
+     y="250.44153" />
 </svg>
