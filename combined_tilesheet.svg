@@ -25,9 +25,9 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="1.6489951"
-       inkscape:cx="601.88171"
-       inkscape:cy="246.51377"
+       inkscape:zoom="2.3320312"
+       inkscape:cx="88.120603"
+       inkscape:cy="457.32663"
        inkscape:window-width="1280"
        inkscape:window-height="705"
        inkscape:window-x="-8"
@@ -107,7 +107,7 @@
        d="m 73.35149,130.34411 -12.308852,8.05372 -13.129149,-6.63292 -0.820303,-14.68664 12.308853,-8.05372 13.129156,6.63292 z" />
   </g>
   <g
-     transform="translate(512,-0.70027391)"
+     transform="translate(512.00045,-1.3002739)"
      id="g9">
     <defs
        id="defs1" />
@@ -401,7 +401,7 @@
        y="240.96889" />
   </g>
   <g
-     transform="translate(0,512.20285)"
+     transform="translate(0,513.6031)"
      id="g50">
     <sodipodi:namedview
        id="namedview39"
@@ -695,4 +695,11 @@
      height="18.259342"
      x="86.889282"
      y="243.66776" />
+  <rect
+     style="fill:#69462e;stroke-width:5.31;stroke-linecap:round;stroke-linejoin:round"
+     id="rect57"
+     width="37.735344"
+     height="11.577889"
+     x="10.291457"
+     y="244.4221" />
 </svg>
