@@ -14,7 +14,7 @@
   <defs
      id="defs56" />
   <g
-     transform="matrix(1,0,0,0.98386034,0,-0.04311395)"
+     transform="matrix(1,0,0,0.98714217,0,-0.0343472)"
      id="g1">
     <sodipodi:namedview
        id="namedview1"
@@ -25,9 +25,9 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="3.4859273"
-       inkscape:cx="83.62194"
-       inkscape:cy="218.73664"
+       inkscape:zoom="1.6489951"
+       inkscape:cx="601.88171"
+       inkscape:cy="246.51377"
        inkscape:window-width="1280"
        inkscape:window-height="705"
        inkscape:window-x="-8"
@@ -107,7 +107,7 @@
        d="m 73.35149,130.34411 -12.308852,8.05372 -13.129149,-6.63292 -0.820303,-14.68664 12.308853,-8.05372 13.129156,6.63292 z" />
   </g>
   <g
-     transform="translate(512.0,0.0)"
+     transform="translate(512,-0.70027391)"
      id="g9">
     <defs
        id="defs1" />
