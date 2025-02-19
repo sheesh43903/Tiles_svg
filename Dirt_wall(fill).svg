@@ -27,9 +27,9 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="2.2460938"
    inkscape:cx="128"
-   inkscape:cy="128"
+   inkscape:cy="92.382607"
    inkscape:window-width="1280"
-   inkscape:window-height="657"
+   inkscape:window-height="705"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -45,7 +45,8 @@
 
 
 <g
-   id="layer1"><rect
+   id="layer1"
+   transform="matrix(0.99316239,0,0,0.98811545,1.7686926,-0.03174725)"><rect
      style="fill:#694630;stroke-width:5.31;stroke-linecap:round;stroke-linejoin:round"
      id="rect1"
      width="260.45218"
