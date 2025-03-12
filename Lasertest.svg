@@ -1,0 +1,22 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="laserGradient" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="darkpurple"/>
+      <stop offset="50%" stop-color="red"/>
+      <stop offset="100%" stop-color="darkpurple"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="100" y="-5000" width="200" height="10000" fill="url(#laserGradient)">
+    <animate 
+      attributeName="width" 
+      values="200; 250; 200" 
+      dur="0.1s" 
+      repeatCount="indefinite"/>
+    <animate 
+      attributeName="x" 
+      values="100; 75; 100" 
+      dur="0.1s" 
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
