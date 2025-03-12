@@ -1,4 +1,4 @@
 <svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="100" y="80" width="3" height="200" fill="red">
+  <rect x="100" y="0" width="3" height="2000" fill="red">
   </rect>
 </svg>
