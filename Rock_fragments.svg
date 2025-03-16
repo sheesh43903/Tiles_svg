@@ -1,31 +1,24 @@
-<script>
-    let angle = 0;
+<svg
+    id="rotating-svg"
+    width="46.410828mm"
+    height="38.178902mm"
+    viewBox="0 0 46.410828 38.178902"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(-42.123476,-6.9508465)">
+        <path
+            style="fill:#6f6f6f;fill-opacity:1;stroke:#5b5b5b;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+            d="m 45.123303,9.9506131 3.265549,32.8028129 22.89286,-5.11377 14.252758,-8.917859 -9.456488,-9.260876 4.86431,-9.5103079 -26.634634,8.0447929 z"
+            id="path11"
+            sodipodi:nodetypes="cccccccc" />
+    </g>
 
-    // Adicionando o SVG diretamente no script
-    const svgElement = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-    svgElement.setAttribute("id", "rotating-svg");
-    svgElement.setAttribute("width", "46.410828mm");
-    svgElement.setAttribute("height", "38.178902mm");
-    svgElement.setAttribute("viewBox", "0 0 46.410828 38.178902");
-
-    const gElement = document.createElementNS("http://www.w3.org/2000/svg", "g");
-    gElement.setAttribute("transform", "translate(-42.123476,-6.9508465)");
-
-    const pathElement = document.createElementNS("http://www.w3.org/2000/svg", "path");
-    pathElement.setAttribute("style", "fill:#6f6f6f;fill-opacity:1;stroke:#5b5b5b;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill");
-    pathElement.setAttribute("d", "m 45.123303,9.9506131 3.265549,32.8028129 22.89286,-5.11377 14.252758,-8.917859 -9.456488,-9.260876 4.86431,-9.5103079 -26.634634,8.0447929 z");
-
-    gElement.appendChild(pathElement);
-    svgElement.appendChild(gElement);
-
-    document.body.appendChild(svgElement);
-
-    // Função para rotacionar o SVG
-    function rotateSVG() {
-        angle += 1; // Ajuste a velocidade alterando este valor
-        svgElement.style.transform = `rotate(${angle}deg)`;
-        requestAnimationFrame(rotateSVG);
-    }
-
-    rotateSVG();
-</script>
+    <!-- Animação de rotação -->
+    <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 23.205 19.089"
+        to="360 23.205 19.089"
+        dur="2s"
+        repeatCount="indefinite"/>
+</svg>
