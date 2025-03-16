@@ -13,7 +13,7 @@
                     sodipodi:nodetypes="cccccccc" />
             </g>
         </svg>
-    </div>
+
     
     <script>
         let angle = 0;
@@ -24,5 +24,3 @@
         }
         rotateSVG();
     </script>
-</body>
-</html>
