@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1280"
-   height="1536"
+   width="4837.7949"
+   height="5805.354"
    viewBox="0 0 1279.9999 1535.9999"
    version="1.1"
    id="svg1"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.16137696"
      inkscape:cx="1645.2163"
-     inkscape:cy="4192.0483"
+     inkscape:cy="3200.5809"
      inkscape:window-width="1280"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -1203,7 +1203,7 @@
        d="M 779.54334,1425.5662 H 736.9154 l 9.83722,37.7094 -19.67443,40.9884 -59.0233,4.9186 1.63953,42.6279 -3.27907,-21.3139 4.91861,8.1976 77.05819,-4.9186 8.19768,-4.9186 11.47676,-9.8372 8.19768,-16.3954 z"
        id="path9-6" /><path
        style="fill:#3b4633;fill-opacity:1;stroke-width:6.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M -1.1924254,880.05595 H 41.435515 l -9.83722,-37.7094 19.67443,-40.9884 59.023295,-4.9186 14.75583,-14.75579 -13.11629,-6.55821 -4.91861,-8.1976 -77.058195,4.9186 -8.19768,4.9186 -11.47675,9.8372 -8.1976804,16.3954 z"
+       d="M -1.1924254,880.05595 H 41.435515 l -9.83722,-37.7094 19.67443,-40.9884 59.023295,-4.9186 14.75583,-14.75579 -13.11629,-6.55821 24.59304,-4.91853 -106.569845,1.63953 -8.19768,4.9186 -11.47675,9.8372 -8.1976804,16.3954 z"
        id="path9-1"
        sodipodi:nodetypes="ccccccccccccc" /><path
        style="fill:#3b4633;fill-opacity:1;stroke-width:6.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
@@ -1238,7 +1238,7 @@
        d="M 234.45364,942.73319 154.995,975.49237 166.35404,890.29958 Z"
        inkscape:transform-center-x="6.6864349"
        inkscape:transform-center-y="-6.1557317"
-       transform="rotate(38.039775,152.40334,755.93459)" /><path
+       transform="rotate(38.039775,125.26209,746.66582)" /><path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0.292225;stroke-width:6.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="path11-2"
@@ -1306,7 +1306,7 @@
        d="M 234.45364,942.73319 154.995,975.49237 166.35404,890.29958 Z"
        inkscape:transform-center-x="-8.5522624"
        inkscape:transform-center-y="-1.2895411"
-       transform="matrix(0.88408383,-0.05182199,0.00835714,0.78192767,-33.938422,116.93632)" /><path
+       transform="matrix(0.88408383,-0.05182199,0.00835714,0.78192767,-30.65935,120.21539)" /><path
        sodipodi:type="star"
        style="fill:#788764;fill-opacity:1;stroke-width:7.21416;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="path11-0-6"
